@@ -2,7 +2,7 @@
   "name": "emp-exp",
   "version": "1.0.1",
   "description": "The app will show employee expense check approval",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
     "start": "nodemon server.js"
   },
